@@ -4,6 +4,10 @@ An interactive data dashboard for exploring education-related indicators of Bang
 
 ## 🚀 Live Demo
 
+## 📸 Dashboard Preview
+
+![Bangladesh Education & Development Dashboard](dashboard.png)
+
 👉 https://bangladesh-education-development-dashboard.streamlit.app/
 
 ## 📌 Project Overview
