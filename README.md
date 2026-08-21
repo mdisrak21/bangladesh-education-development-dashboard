@@ -1,30 +1,43 @@
 # 🇧🇩 Bangladesh Education & Development Dashboard
 
-An interactive data dashboard for exploring education-related indicators of Bangladesh using Python, Streamlit, Pandas, and the World Bank Indicators API.
+An interactive data dashboard for exploring education-related indicators of Bangladesh using Python, Pandas, Streamlit, and the World Bank Indicators API.
 
-## 🎯 Objective
+## 🚀 Live Demo
 
-The objective of this project is to practice:
+👉 https://bangladesh-education-development-dashboard.streamlit.app/
 
-- Data collection through REST APIs
-- Data cleaning and processing
-- Data visualization
-- Interactive dashboard development
-- Evidence-based interpretation
-- Working with real-world development data
+## 📌 Project Overview
 
-## 📊 Features
+This project presents an interactive dashboard for exploring selected education-related development indicators of Bangladesh.
 
-- Explore Bangladesh education indicators
-- Select multiple indicators
-- Filter data by year
-- View latest available values
-- Visualize historical trends
-- Automatically generate basic insights
-- View the underlying dataset
-- Download data as CSV
+Users can select indicators, explore historical trends, filter data by year, view the latest available values, generate basic data-driven insights, and download the underlying dataset as a CSV file.
 
-## 🛠️ Technologies
+The project was developed as a practical application of data analysis, API integration, data visualization, and interactive dashboard development.
+
+## 🎯 Objectives
+
+The main objectives of this project are to:
+
+- Collect real-world development data through a public REST API
+- Process and organize data using Python and Pandas
+- Visualize historical education trends
+- Build an interactive data dashboard
+- Practice evidence-based data interpretation
+- Make development-related data easier to explore and understand
+
+## 📊 Key Features
+
+- 🇧🇩 Bangladesh-focused education data
+- 📈 Historical trend visualization
+- 🔎 Automatic key insights
+- 🎛️ Interactive indicator selection
+- 📅 Year-range filtering
+- 📊 Latest available indicator values
+- 📋 Interactive dataset table
+- 📥 CSV data download
+- 🌐 Live data retrieval through the World Bank API
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -37,9 +50,21 @@ The objective of this project is to practice:
 
 World Bank Indicators API
 
-## 🚀 How to Run
+The dashboard uses publicly available World Bank development indicators for Bangladesh.
 
-Clone or download the repository and install the dependencies:
+## 🔄 Data Workflow
 
-```bash
-pip install -r requirements.txt
+```text
+World Bank API
+      ↓
+Data Collection
+      ↓
+Data Processing with Pandas
+      ↓
+Data Filtering
+      ↓
+Visualization
+      ↓
+Interactive Streamlit Dashboard
+      ↓
+Key Insights & CSV Download
