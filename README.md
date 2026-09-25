@@ -2,11 +2,12 @@
 
 An interactive data dashboard for exploring education-related indicators of Bangladesh using Python, Pandas, Streamlit, and the World Bank Indicators API.
 
-## 🚀 Live Demo
 
 ## 📸 Dashboard Preview
 
 ![Bangladesh Education & Development Dashboard](dashboard.png)
+
+## 🚀 Live Demo
 
 👉 https://bangladesh-education-development-dashboard.streamlit.app/
 
