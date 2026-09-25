@@ -72,3 +72,21 @@ Visualization
 Interactive Streamlit Dashboard
       ↓
 Key Insights & CSV Download
+
+```
+
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/mdisrak21/bangladesh-education-development-dashboard.git
+cd bangladesh-education-development-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Add more updated datasets.
+- Add geographic visualizations.
+- Add downloadable analytical reports.
+- Improve indicator comparison features.
